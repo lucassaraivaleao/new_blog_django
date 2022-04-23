@@ -128,6 +128,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-<son_blog>/settings_local.py
+.env
 
 
